@@ -1,0 +1,102 @@
+body{
+  font-size: medium;
+  font-weight: bold;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #DDD;
+}
+
+tr:hover {background-color: #e7eea4;}
+
+.tablee{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+input{
+  margin-top: 10px;
+  width: 400px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+button{
+    /* margin-top: 20px; */
+    width:95px;
+    height:35px;
+    font-size: medium;
+    font-weight: bolder;
+    color: whitesmoke;
+    background-color: black;
+    border-radius: 5px;
+    border-color: black;
+    cursor: pointer;
+  
+}
+.btn2{
+  margin: 5px 5px;
+  padding: 5px 5px;
+}
+/* .container2{
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+} */
+
+/* .unik{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+} */
+
+.ek{
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #DDD;
+  align-items: center;
+}
+
+.headd:hover{
+  background-color: #e7eea4;
+}
+
+.btn{
+  margin-top: 20px;
+  width:95px;
+  height:35px;
+}
+/* .container{
+  margin: 20px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.same{
+  margin-top: 10px;
+  width: 400px;
+  height: 30px;
+  border-radius: 30px;
+}
+
+.same2{
+  display: flex;
+}
+
+ */
+
